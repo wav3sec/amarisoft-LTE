@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/71d1edbb-7acd-42d4-a15d-def52e1e3853)
+
 
 Install Guide
 
@@ -36,13 +38,13 @@ For SW package installation follow the instructions on section See Installation 
 
 
 # amarisoft-lte
-last file 2025-05-21
+last file 2025-06-13
 
 need license contact to my mail
-nuledsec[at]proton.me
+irichard84[at]proton.me
 
 
-1 Month service $199
+1 Month service $299
 
 1 Years service $3000 * 3 license
 
